@@ -1,2 +1,1 @@
-# helloworld
-print "Hello world"
+
